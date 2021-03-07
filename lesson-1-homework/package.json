@@ -1,0 +1,24 @@
+{
+  "name": "lesson-1-homework",
+  "version": "1.0.0",
+  "description": "design a html",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harry-hhj/bytedance-homework.git"
+  },
+  "author": "Harry-hhj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harry-hhj/bytedance-homework/issues"
+  },
+  "homepage": "https://github.com/Harry-hhj/bytedance-homework#readme"
+}
