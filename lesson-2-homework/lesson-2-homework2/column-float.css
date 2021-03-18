@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 800px;
+    margin: auto;
+    background: #cccccc;
+}
+
+.wrapper {
+    background: pink;
+    overflow: hidden;
+    /*height: 800px;*/
+}
+
+.left {
+    background: greenyellow;
+    float: left;
+    width: 200px;
+    height: 400px;
+}
+
+.right {
+    background: blueviolet;
+    float: right;
+    width: 200px;
+    height: 400px;
+}
+
+.footer {
+    background: coral;
+    float: bottom;
+    clear: both;
+    margin-top: 780px;
+}
