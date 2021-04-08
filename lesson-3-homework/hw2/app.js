@@ -15,5 +15,4 @@ $(document).ready(function () {
             $('.tasksBoard ul').find("li").remove();
         }
     )
-
 });
